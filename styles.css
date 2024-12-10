@@ -1,0 +1,75 @@
+h1 {
+	margin: 0;
+	color: #25BFCD;
+	font-size: 2.5em;
+}
+h2	{
+	margin: 0;
+	color: white;
+	font-size: 2.5em;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #F3D0E9;
+	color: #333;
+}
+header {
+	background-color: #F3D0E9;
+	text-align: center;
+	padding: 20px;
+}
+
+main {
+	padding: 20px;
+}
+.wiersz {
+	font-style: italic;
+	line-height: 1.8;
+	background-color: #4D6DD3;
+	border-left: 5px solid #000000;
+	padding: 10px 20px;
+	margin: 20px 0;
+	border-radius: 5px;
+	color: #000000;
+}
+	
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 20px 0;
+	background-color: #F3D0E9;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+	table th, table td {
+		border: 1px solid #ccc;
+		padding: 10px;
+		text-align: left;
+	}
+	
+	table th {
+		background-color: #F3D0E9;
+		color: #000000;
+		
+	ul, ol {
+		margin: 0;
+		padding: 10px 20px;
+	}
+	
+	footer {
+		backgroung color: #F3D0E9
+		color: #fff
+		text-algin: center;
+		padding: 10px 0;
+		font-size: 0.9em;
+	}
+	footer a {
+		color: #
+		text-decoration: none;
+	}
+		
+	footer a:hover {
+		text-decoration: underline;
+	}
